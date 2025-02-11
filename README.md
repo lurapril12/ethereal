@@ -42,6 +42,9 @@ List the main features of the project.
 - Dark & Light Mode
 - Responsive across multiple devices
 - Interactive animations
+- Wallet connection with **RainbowKit**
+- Web3 interactions using **UseFarmer**
+- Secure and decentralized transactions
 
 
 ## Installation & How to Run
@@ -52,10 +55,11 @@ Instructions on how to clone the repository, install dependencies, and run the p
    ```sh
    git clone https://github.com/username/ethereal.git
    ```
-2. Navigate to the project folder::
+2. Install UseFarmer and RainbowKit:
    ```sh
-   cd Ethereal
+   npm install use-farmer @rainbow-me/rainbowkit wagmi ethers
    ```
+   
 3. Start the project:
    ```sh
    npm run dev
