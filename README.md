@@ -34,3 +34,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Key Features
+
+List the main features of the project.
+## ✨ Features
+- Dark & Light Mode
+- Responsive across multiple devices
+- Interactive animations
+
+
+## Installation & How to Run
+Instructions on how to clone the repository, install dependencies, and run the project.
+
+## 🚀 Installation & Running the Project
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/username/ethereal.git
+   ```
+2. Navigate to the project folder::
+   ```sh
+   cd Ethereal
+   ```
+3. Start the project:
+   ```sh
+   npm run dev
+   ```
+
+## Contributors
+If this is a team project, you can list the contributors.
+## 👨‍💻 Contributors
+- [Lurry Putri](https://github.com/lurapril12)
+
+   
+
+
+
